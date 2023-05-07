@@ -6,7 +6,7 @@
 ## :sassy_man:  About me
 - :school: Graduate from Xiamen University, Currently persuing master degree at NEU & UIUC
 - :student: I’m majored in: `Computer Science` and `Management`.
-- :thinking: I’m currently open for: a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1sMcL0HCC-Nt1N9ZBkZTUQYaoluuHi0Ni/view?usp=sharing).
+- :thinking: I’m currently open for: a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1GY9v6aagGkReuhB12D6cDiXotaKceBVV/view?usp=sharing).
 - :nerd_face: Built [RingCentral Application](https://app.ringcentral.com/) of 50,000 users from scratch.
 
 <br>
